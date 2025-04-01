@@ -1,0 +1,7 @@
+baseURL = 'http://example.org/'
+languageCode = 'de-de'
+title = 'Velociraptors Heidelberg'
+theme = 'ananke'
+
+[params]
+  mainSections = ['post']
