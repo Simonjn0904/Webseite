@@ -1,7 +1,7 @@
 ---
 title: "WhatsApp-Community"
 date: 2025-04-02
-draft: false
+draft: true
 menu: "main"
 wheight: 3
 ---
