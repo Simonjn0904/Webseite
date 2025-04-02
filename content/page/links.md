@@ -8,20 +8,18 @@ wheight: 3
 
 # Join our WhatsApp Community!
 
-Looking for like-minded people to ride with, tinker on bikes, train, or just chat? You'll find all that – and much more – in our WhatsApp community!
+Looking for like-minded people to ride with, share ideas or simply have a good chat? In our WhatsApp community, you'll find exactly that and so much more. All important updates and upcoming events are posted in our Announcement Channel. 
 
-We have a central community group as well as a variety of topic-specific subgroups you can join based on your interests.
 
 ---
 
 ## 💬 General Chat  
-Used for casual conversations, cycling- or event-related questions, and finding others to join you on a ride when you're heading out and fancy some company. 🌞🚲
+Used for casual conversations, cycling- or event-related questions, and finding others to join you on a ride when you're heading out and fancy some company. 
 
 ---
 
 ## 🧠 Orga  
-General organizational group – please join if you have any ideas for the club or want to contribute!
-
+General organizational group – Being a community-led project, we actively encourage engagement and feedback! Feel free to join this group to help organise events and bring your ideas into the community! 
 ---
 
 ## 🔄 Bike & Zubehör Börse  
@@ -65,7 +63,7 @@ Have a bike tech question or love talking about components and repairs? This is 
 ---
 
 ## 🏋️ AG Kniebeuge  
-Our strength training group. We organize regular meetups and sessions – especially using the Unisport *KraftraumCARD*. None of us want to squat… but we all should! 💪
+Our strength training group. We organize regular meetups and sessions – especially using the Unisport *KraftraumCARD*. None of us want to squat… but we all should! 
 
 ---
 
