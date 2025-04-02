@@ -10,6 +10,7 @@ wheight: 3
 
 Looking for like-minded people to ride with, share ideas or simply have a good chat? In our WhatsApp community, you'll find exactly that and so much more. All important updates and upcoming events are posted in our Announcement Channel. 
 
+
 ---
 
 ## 💬 General Chat  
