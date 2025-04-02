@@ -9,4 +9,4 @@ weight: 5
 
 **Stickers Worldwide Map**
 
-hier kommt eine interaktive karte von allen gemappten Stickern rein
+hier kommt eine interaktive karte von allen gemappten Stickern hin
