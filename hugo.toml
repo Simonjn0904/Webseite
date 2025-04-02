@@ -1,12 +1,5 @@
-baseURL = 'http://example.org/'
-languageCode = 'de-de'
-title = 'Velociraptors Heidelberg'
-theme = 'ananke'
-
-[params]
-  mainSections = ['post']
-
-[markup]
-[markup.goldmark]
-  [markup.goldmark.renderer]
-    unsafe = true
+baseURL = "https://www.velociraptors-heidelberg.com/"
+languageCode = "de-de"
+title = "VELOciraptors Heidelberg"
+theme = "ananke"
+enableRobotsTXT = true
