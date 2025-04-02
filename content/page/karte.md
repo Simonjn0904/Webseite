@@ -8,4 +8,5 @@ weight: 5
 
 # Stickers Worldwide Map
 
-hier kommt eine interaktive karte von allen gemappten Stickern hin
+Auf dieser interaktiven Karte können alle Nutzer ihre geklebten Sticker mappen
+
