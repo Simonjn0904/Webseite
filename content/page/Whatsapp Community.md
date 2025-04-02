@@ -23,6 +23,7 @@ Used for casual conversations, cycling- or event-related questions, and finding 
 
 ## 🧠 Orga  
 General organizational group – Being a community-led project, we actively encourage engagement and feedback! Feel free to join this group to help organise events and bring your ideas into the community! 
+
 ---
 
 ## 🔄 Bike & Zubehör Börse  
