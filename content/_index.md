@@ -5,5 +5,4 @@ draft: false
 
 ![VELOciraptors Logo](/images/velociraptors-logo.jpg)
 
-Willkommen bei den VELOciraptors Heidelberg!sdhsodh
-eghweghwesdhsdsdggsdhboHGR
+Willkommen bei den VELOciraptors Heidelberg!
