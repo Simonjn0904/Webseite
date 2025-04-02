@@ -1,8 +1,9 @@
-+++
-date = '2025-04-02T01:08:16+02:00'
-draft = false
-title = 'Karte'
-+++
-
+---
+title: "Karte"
+date: 2025-04-02
+draft: false
+menu: "main"
+weight: 4
+---
 
 hier kommt eine karte rein
