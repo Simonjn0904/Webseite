@@ -3,7 +3,7 @@ title: "Weekly rides"
 date: 2025-04-02
 draft: false
 menu: "main"
-weight: 3
+weight: 4
 ---
 
 **Social Ride ☀️🚴‍♂️**
