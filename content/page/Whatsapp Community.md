@@ -3,7 +3,7 @@ title: "WhatsApp-Community"
 date: 2025-04-02
 draft: false
 menu: "main"
-wheight: 3
+weight: 2
 ---
 
 # Join our WhatsApp Community!
