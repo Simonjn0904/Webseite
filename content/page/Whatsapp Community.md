@@ -13,7 +13,6 @@ Looking for like-minded people to ride with, share ideas or simply have a good c
 👉 [Join here](https://chat.whatsapp.com/EEEu0gwTYzWFEnajI1RPeD)
 (Click the link to get started!)
 
-
 ---
 
 ## 💬 General Chat  
