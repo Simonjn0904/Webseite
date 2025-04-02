@@ -5,3 +5,8 @@ theme = 'ananke'
 
 [params]
   mainSections = ['post']
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true

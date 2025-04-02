@@ -1,5 +1,6 @@
-+++
-date = '2025-04-02T01:08:15+02:00'
-draft = true
-title = 'Links'
-+++
+---
+title: "LInks"
+date: 2025-04-02
+draft: false
+menu: "main"
+---
