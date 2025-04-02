@@ -41,11 +41,6 @@ For everyone who enjoys creating photos, videos, or social media content. You do
 
 ---
 
-## 🚴‍♂️ Racingteam  
-For ambitious riders – focused on racing, structured training, and pushing your limits together.
-
----
-
 ## 🦕 Dino Diversity  
 Our inclusion and diversity group – open to everyone who wants to help create a respectful, diverse, and supportive community. Whether you’re new to cycling or a seasoned rider, you’re welcome here.
 
