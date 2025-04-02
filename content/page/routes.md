@@ -1,3 +1,4 @@
+---
 title: "Nice Routes"
 date: 2025-04-02
 draft: false
@@ -5,8 +6,8 @@ menu: "main"
 wheight: 
 ---
 
-**Velociraptors Merch**
+**Nice routes around Heidelberg**
 
 ---
 
-here you can order your jerseys/socks/bottles
+here you can find the most pretty routes around Heidelberg
