@@ -10,6 +10,11 @@ weight: 2
 
 Looking for like-minded people to ride with, share ideas or simply have a good chat? In our WhatsApp community, you'll find exactly that and so much more. All important updates and upcoming events are posted in our Announcement Channel. 
 
+👉 [Join the Community](https://chat.whatsapp.com/EEEu0gwTYzWFEnajI1RPeD)
+(Click the link to get started!)
+
+Whether you're new or have been with us for a while – there's something for everyone.
+
 
 ---
 
@@ -66,10 +71,5 @@ Have a bike tech question or love talking about components and repairs? This is 
 Our strength training group. We organize regular meetups and sessions – especially using the Unisport *KraftraumCARD*. None of us want to squat… but we all should! 
 
 ---
-
-## 🔗 How to Join  
-👉 [Join the Community](https://chat.whatsapp.com/EEEu0gwTYzWFEnajI1RPeD)
-
-Whether you're new or have been with us for a while – there's something for everyone.
 
 **We're excited to have you with us!** 

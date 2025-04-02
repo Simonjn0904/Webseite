@@ -1,12 +1,12 @@
 ---
-title: "Fahrradbörse"
+title: "Bike Exchange"
 date: 2025-04-02
 draft: false
 menu: "main"
 weight: 3
 ---
 
-**Fahrradbörse*
+# Bike Exchange
 
 ---
 

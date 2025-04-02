@@ -6,7 +6,7 @@ menu: "main"
 wheight: 
 ---
 
-**Next Events**
+# Next Events
 
 ---
 

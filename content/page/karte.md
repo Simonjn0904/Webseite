@@ -6,7 +6,6 @@ menu: "main"
 weight: 5
 ---
 
-
-**Stickers Worldwide Map**
+# Stickers Worldwide Map
 
 hier kommt eine interaktive karte von allen gemappten Stickern hin

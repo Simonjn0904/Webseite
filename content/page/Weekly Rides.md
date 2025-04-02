@@ -6,13 +6,13 @@ menu: "main"
 weight: 4
 ---
 
-**Social Ride ☀️🚴‍♂️**
+# Social Ride ☀️🚴‍♂️
 
 We run a weekly social ride every Saturday, with the emphasis on social: the tempo is relaxed and conversational 🗣️, the vibes are impeccable ✨, and most importantly we usually finish with a café stop ☕. We especially welcome those who are new to cycling 🆕, riding a gravel bike 🚵‍♂️, or not comfortable in more performance-focused cycling groups. The pace will be set to ensure that the slowest rider can enjoy the ride without feeling like they have to hang on for dear life 🐢. The route is announced each week on the WhatsApp group 📱. Feel free to message any of the admins if you have any questions 🙂.
 
 ---
 
-**Fast Ride ⚡🚴‍♀️**
+# Fast Ride ⚡🚴‍♀️
 
 *Due to time change now on Sunday @10:30 ⏰*
 
